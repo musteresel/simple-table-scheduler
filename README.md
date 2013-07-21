@@ -1,4 +1,4 @@
-rate-based-function-scheduler
+simple table scheduler
 =============================
 
-function scheduler (i.e. not preemptive, using multi shot functions) based on shot rate
+Schedules functions according to a given (but changeable) scheduling table
